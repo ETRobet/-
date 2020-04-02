@@ -1,0 +1,16 @@
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.csprojAssemblyReference.cache
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.Properties.Resources.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.csproj.GenerateResource.cache
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.csproj.CoreCompileInputs.cache
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\bin\Debug\图书销售管理系统.exe.config
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\bin\Debug\图书销售管理系统.exe
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\bin\Debug\图书销售管理系统.pdb
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.exe
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.pdb
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.登陆界面.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.注册界面.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.查询模块.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.bt_about.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.更新模块.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.会员系统.resources
+F:\【荒野】工作间\代号：20 VS\图书销售管理系统\图书销售管理系统\obj\Debug\图书销售管理系统.销售分析.resources
